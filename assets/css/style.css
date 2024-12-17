@@ -204,3 +204,23 @@ h2 {
   margin-bottom: 50px;
   line-height: 25px;
 }
+
+.area4 {
+  display: grid;
+  grid-template-columns: 500px 1fr;
+  background-color: #e8e9ee;
+}
+
+.area4-content {
+  padding: 180px 80px;
+}
+
+.area4-text {
+  margin-bottom: 50px;
+  line-height: 25px;
+}
+
+.area4-img1 {
+  background-image: url("../images/bg3.jpg");
+  background-position: left;
+}
